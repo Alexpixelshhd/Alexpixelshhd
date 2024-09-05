@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Animation" logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg", ANIMESTATION
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Series" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6hAwq-uyFrBiruL6sT_LxSbpQqf1dg1eGw&s", BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 type="stream" channelId="4166" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPOK-zEeoxC7RbE_Z1jrRgQoRKIGlrRHlTLw&s", Canal 11 TuTV
@@ -13,12 +11,8 @@ http://204.157.251.250:8000/play/a06a/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:0 type="stream" channelId="1214" group="Movies" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="287" group="Sports" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" aspect-ratio="16:9", Claro Sports Chile
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" channelId="19" group="Animation;Kids" logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg", Disney Channel Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png", Disney XD East
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEI_pKfyG1iEaA402MB_QvqsEN7kOzMNN7g&s", GSG TV
 https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Legislative" logo="https://pbs.twimg.com/profile_images/1263977046658744326/r2BJZ_50_200x200.jpg", Legislative Assembly of El Salvador
@@ -49,8 +43,6 @@ https://lnc-cine-estrella.tubi.video/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="3543", Magic tv
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:0 type="stream" channelId="3733", Caracol internacional
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/199323
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", Estrella tv
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://play-lh.googleusercontent.com/yzkeZNwhfaYvd9_HrU9fA46jw7ruucSoGsX6Z-J29nRxdcoWF4wEBj6qYy8NiE0FOw", Latino tv
@@ -115,8 +107,6 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85142
 #EXTINF:0 type="stream" channelId="2587", HBO Xtreme
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85144
-#EXTINF:0 type="stream" channelId="-1" logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png", VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/f9cd3117-e95c-4406-8f7f-e178cdef05b0/IQ-Channel.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-f9cd3117-e95c-4406-8f7f-e178cdef05b0-oBgaIj2", IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="151", VH1
@@ -199,8 +189,6 @@ http://181.205.130.194:4000/play/a06f
 http://181.205.130.194:4000/play/a07f
 #EXTINF:0 type="stream" channelId="1573" group="unsorted", AXN
 http://181.204.79.182:8202/play/a022
-#EXTINF:0 type="stream" channelId="1569" group="unsorted", 123 TV
-http://181.204.79.182:8202/play/a066
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", America TV PY
 http://181.204.79.182:8202/play/a044
 #EXTINF:0 type="stream" channelId="1409" group="unsorted", City TV
